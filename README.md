@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![agaladi's 42 stats](https://badge.mediaplus.ma/greenbinary/hael-ghd)](https://github.com/helgh/badge42)
+[![hael-ghd's 42 stats](https://badge.mediaplus.ma/greenbinary/hael-ghd)](https://github.com/helgh/badge42)
